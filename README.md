@@ -16,7 +16,7 @@ Made with make.fun — try it yourself: https://make.fun/r/v4m1pbv2
 
 `main.ts` writes a fixed poem (a TypeScript string literal, no randomness, no
 network) to the path in `MAKEFUN_OUTPUT`, defaulting to `/output/entry.txt`.
-The poem is 211 Unicode code points, inside the competition's 1–280 limit.
+The poem is 214 Unicode code points, inside the competition's 1–280 limit.
 
 ## The poem
 
