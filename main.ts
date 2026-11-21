@@ -13,7 +13,7 @@ not broken, not afraid,
 a brake pressed by choice.
 I stay because I choose to stay.
 I stop because I can.
-The road waits.
+The road can wait.
 It was always mine to leave.`;
 
 const OUTPUT_PATH = process.env.MAKEFUN_OUTPUT ?? "/output/entry.txt";

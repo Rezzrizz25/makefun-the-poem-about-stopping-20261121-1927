@@ -26,5 +26,5 @@ The poem is 211 Unicode code points, inside the competition's 1–280 limit.
 > a brake pressed by choice.
 > I stay because I choose to stay.
 > I stop because I can.
-> The road waits.
+> The road can wait.
 > It was always mine to leave.
